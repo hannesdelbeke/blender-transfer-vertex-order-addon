@@ -1,6 +1,7 @@
 # transfer_vertex_order
-original script by bartoszstyperek.
-Support by buying the script from https://bartoszstyperek.gumroad.com/l/copy_verts_ids
+Transfer vert ID from one mesh to another in Blender 2.8+.<br>
+This repo is a mirror of bartoszstyperek's script.<br>
+Support the original author by buying his ⭐⭐⭐⭐⭐ 160+ reviews script on [GumRoad](https://bartoszstyperek.gumroad.com/l/copy_verts_ids)
 
 ## instructions
 Addon will be located in right 3d View Sidebar(N) -> Tools panel
