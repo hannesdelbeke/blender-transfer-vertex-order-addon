@@ -26,7 +26,7 @@ If two meshes have different vertices positions use editmode ctrl+c menu - Copy 
 Since version 2.3 now there is also option to Transfer vert IDs using matching UVs.
 
 
-## Dependencies
+## References
 - This addon is using 'Copy Attributes Menu' addon, which is build-in into blender.
 - You can preview vert IDs by using MeasureIt addon (also build-in into blender).
 - This addon is base on Magic UV - UV Topological transfer script.
