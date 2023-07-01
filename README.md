@@ -27,11 +27,9 @@ Since version 2.3 now there is also option to Transfer vert IDs using matching U
 
 
 ## Dependencies
-This addon is using 'Copy Attributes Menu' addon, which is build-in into blender.
-
-You can preview vert IDs by using MeasureIt addon (also build-in into blender).
-
-This addon is base on Magic UV - UV Topological transfer script.
+- This addon is using 'Copy Attributes Menu' addon, which is build-in into blender.
+- You can preview vert IDs by using MeasureIt addon (also build-in into blender).
+- This addon is base on Magic UV - UV Topological transfer script.
 
 
 ## Release notes
