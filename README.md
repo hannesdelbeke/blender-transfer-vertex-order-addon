@@ -1,11 +1,9 @@
 # Transfer vertex order  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Blender-Dark.svg" width="32" style="max-width: 100%;">  Blender addon
 
  
-
-
- ! Prevent this | Vert transfer addon |
+ | Prevent this | Vert transfer addon |
  | -- | -- |
- |  <img src="https://github.com/hannesdelbeke/blender-transfer-vertex-order-addon/assets/3758308/f497c5bd-f28b-4680-b971-cb35ab6ebd0b" height="200" style="max-width: 100%;">  | <img src="https://github.com/hannesdelbeke/blender-transfer-vertex-order-addon/assets/3758308/444103d3-64e2-4384-84bb-f048db2999d1" height="150" style="max-width: 100%;">    |
+ |  <img src="https://github.com/hannesdelbeke/blender-transfer-vertex-order-addon/assets/3758308/f497c5bd-f28b-4680-b971-cb35ab6ebd0b" height="200" style="max-width: 100%;"> | <img src="https://github.com/hannesdelbeke/blender-transfer-vertex-order-addon/assets/3758308/444103d3-64e2-4384-84bb-f048db2999d1" height="150" style="max-width: 100%;"> |
 
 Transfer vert ID from one mesh to another in Blender 2.8+.<br>
 This repo is a mirror of bartoszstyperek's script.<br>
