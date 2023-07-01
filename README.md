@@ -1,4 +1,4 @@
-# transfer_vertex_order
+# Transfer vertex order  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Blender-Dark.svg" width="32" style="max-width: 100%;">  Blender addon
 Transfer vert ID from one mesh to another in Blender 2.8+.<br>
 This repo is a mirror of bartoszstyperek's script.<br>
 Support the original author by buying his ⭐⭐⭐⭐⭐ 160+ reviews script on [GumRoad](https://bartoszstyperek.gumroad.com/l/copy_verts_ids)
