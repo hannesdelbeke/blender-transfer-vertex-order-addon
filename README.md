@@ -13,7 +13,10 @@ It serves both as a backup, and to expose it with a public URL that can be downl
 You can support the original author, by buying the script on [GumRoad](https://bartoszstyperek.gumroad.com/l/copy_verts_ids)  
 Where it has 160+ ⭐⭐⭐⭐⭐ reviews.  
 
-## instructions
+---
+
+
+## Original instructions
 Addon will be located in right 3d View Sidebar(N) -> Tools panel
 
 See video tutorial about addon made by Danny Mac 3D [here](https://www.youtube.com/watch?v=qTgSLYY9uew&t=1s).
