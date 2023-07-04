@@ -6,7 +6,10 @@
  |  <img src="https://github.com/hannesdelbeke/blender-transfer-vertex-order-addon/assets/3758308/f497c5bd-f28b-4680-b971-cb35ab6ebd0b" height="200" style="max-width: 100%;"> | <img src="https://github.com/hannesdelbeke/blender-transfer-vertex-order-addon/assets/3758308/444103d3-64e2-4384-84bb-f048db2999d1" height="150" style="max-width: 100%;"> |
 
 Transfer vert ID from one mesh to another in Blender 2.8+.  
+
 This repo is a mirror of bartoszstyperek's script. Which is allowed under the GPL license.  
+It serves both as a backup, and to expose it with a public URL that can be downloaded or git-cloned, for a [plugget](https://github.com/plugget/plugget) installation.
+
 You can support the original author, by buying the script on [GumRoad](https://bartoszstyperek.gumroad.com/l/copy_verts_ids)  
 Where it has 160+ ⭐⭐⭐⭐⭐ reviews.  
 
