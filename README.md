@@ -7,8 +7,7 @@
 
 Transfer vert ID from one mesh to another in Blender 2.8+.  
 
-This repo is a mirror of bartoszstyperek's script. Which is allowed under the GPL license.  
-It serves both as a backup, and to expose it with a public URL that can be downloaded or git-cloned, for a [plugget](https://github.com/plugget/plugget) installation.
+This repo is a mirror of [bartoszstyperek](https://bartoszstyperek.gumroad.com)'s script, to expose a public URL for a [plugget](https://github.com/plugget/plugget) installation.
 
 You can support the original author, by buying the script on [GumRoad](https://bartoszstyperek.gumroad.com/l/copy_verts_ids)  
 Where it has 160+ ⭐⭐⭐⭐⭐ reviews.  
