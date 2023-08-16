@@ -5,7 +5,7 @@
  | -- | -- |
  |  <img src="https://github.com/hannesdelbeke/blender-transfer-vertex-order-addon/assets/3758308/f497c5bd-f28b-4680-b971-cb35ab6ebd0b" height="200" style="max-width: 100%;"> | <img src="https://github.com/hannesdelbeke/blender-transfer-vertex-order-addon/assets/3758308/444103d3-64e2-4384-84bb-f048db2999d1" height="150" style="max-width: 100%;"> |
 
-Transfer vert ID from one mesh to another in Blender 2.8+.  
+Transfer vertex, face & edge ID order from one mesh to another (if both have the same topology)
 
 This repo is a mirror of [bartoszstyperek](https://bartoszstyperek.gumroad.com)'s script, to expose a public URL for a [plugget](https://github.com/plugget/plugget) installation.
 
